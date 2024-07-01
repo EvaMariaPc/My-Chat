@@ -1,0 +1,6 @@
+Departure,Destination,Flight_price,Outbound,Inbound
+Timișoara,London,223,"['Thursday', 10, 'June', '15:30']","['Sunday', 13, 'June', '18:45']"
+Timișoara,Paris,258,"['Friday', 11, 'June', '08:15']","['Monday', 14, 'June', '11:30']"
+Timișoara,Venice,368,"['Saturday', 12, 'June', '10:00']","['Tuesday', 15, 'June', '13:45']"
+Timișoara,Brussels,383,"['Sunday', 13, 'June', '14:20']","['Wednesday', 16, 'June', '17:55']"
+Timișoara,Antalya,637,"['Monday', 14, 'June', '06:40']","['Thursday', 17, 'June', '09:25']"

@@ -1,0 +1,1 @@
+{"properties": {"departure": {"type": "string"}, "destination": {"type": "string"}, "price": {"type": "string"}}, "required": ["departure", "destination", "price"]}

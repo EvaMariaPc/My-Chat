@@ -1,0 +1,89 @@
+{
+    "flights": [
+        {
+            "Departure": "Timișoara",
+            "Destination": "London",
+            "Flight_price": 223,
+            "Outbound": [
+                "Thursday",
+                10,
+                "June",
+                "15:30"
+            ],
+            "Inbound": [
+                "Sunday",
+                13,
+                "June",
+                "18:45"
+            ]
+        },
+        {
+            "Departure": "Timișoara",
+            "Destination": "Paris",
+            "Flight_price": 258,
+            "Outbound": [
+                "Friday",
+                11,
+                "June",
+                "08:15"
+            ],
+            "Inbound": [
+                "Monday",
+                14,
+                "June",
+                "11:30"
+            ]
+        },
+        {
+            "Departure": "Timișoara",
+            "Destination": "Venice",
+            "Flight_price": 368,
+            "Outbound": [
+                "Saturday",
+                12,
+                "June",
+                "10:00"
+            ],
+            "Inbound": [
+                "Tuesday",
+                15,
+                "June",
+                "13:45"
+            ]
+        },
+        {
+            "Departure": "Timișoara",
+            "Destination": "Brussels",
+            "Flight_price": 383,
+            "Outbound": [
+                "Sunday",
+                13,
+                "June",
+                "14:20"
+            ],
+            "Inbound": [
+                "Wednesday",
+                16,
+                "June",
+                "17:55"
+            ]
+        },
+        {
+            "Departure": "Timișoara",
+            "Destination": "Antalya",
+            "Flight_price": 637,
+            "Outbound": [
+                "Monday",
+                14,
+                "June",
+                "06:40"
+            ],
+            "Inbound": [
+                "Thursday",
+                17,
+                "June",
+                "09:25"
+            ]
+        }
+    ]
+}
